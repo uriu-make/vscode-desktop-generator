@@ -1,0 +1,11 @@
+# ninja log v5
+0	9	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+9	12	0	clean	a31eedcededa8236
+0	135	1691728113642627936	/home/uriu/Qt/vscode-generator/build/vscode-generator_autogen/mocs_compilation.cpp	22bffebe30f01511
+0	135	1691728113642627936	vscode-generator_autogen/timestamp	22bffebe30f01511
+135	1072	1691728114582667066	CMakeFiles/vscode-generator.dir/main.cpp.o	75928383841560c6
+135	1442	1691728114950682379	CMakeFiles/vscode-generator.dir/mainwindow.cpp.o	a7bdf330f6a19cf7
+0	135	1691728113642627936	vscode-generator_autogen/mocs_compilation.cpp	22bffebe30f01511
+0	135	1691728113642627936	/home/uriu/Qt/vscode-generator/build/vscode-generator_autogen/timestamp	22bffebe30f01511
+135	1163	1691728114674670894	CMakeFiles/vscode-generator.dir/vscode-generator_autogen/mocs_compilation.cpp.o	1096925ac63423a5
+1442	1657	1691728115166691361	../vscode-generator	8e2c2ba277a28e46

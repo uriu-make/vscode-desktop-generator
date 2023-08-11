@@ -1,0 +1,5 @@
+/home/uriu/Qt/vscode-generator/build/CMakeFiles/vscode-generator.dir
+/home/uriu/Qt/vscode-generator/build/CMakeFiles/edit_cache.dir
+/home/uriu/Qt/vscode-generator/build/CMakeFiles/rebuild_cache.dir
+/home/uriu/Qt/vscode-generator/build/CMakeFiles/vscode-generator_autogen_timestamp_deps.dir
+/home/uriu/Qt/vscode-generator/build/CMakeFiles/vscode-generator_autogen.dir
