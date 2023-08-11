@@ -1,3 +1,4 @@
 # vscode-desktop-generator
 指定したVisual Studio Codeのワークスペースを開くデスクトップアイコンを生成するツール\
-Directoryボタンをクリックして*.code-workspaceファイルを指定し、デスクトップでの名前を入力してGenerateボタンをクリックすることで生成する。
+Directoryボタンをクリックして*.code-workspaceファイルを指定し、デスクトップでの名前を入力してGenerateボタンをクリックすることで*.desktopファイルを生成する。\
+Ubuntu以外での動作は確認していません
